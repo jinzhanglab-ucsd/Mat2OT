@@ -1,0 +1,329 @@
+{
+    "data": {
+        "b:p200": {
+            "positions": {
+                "bottom": 36.0,
+                "drop_tip": 40.0,
+                "blow_out": 38.0,
+                "top": 19.0
+            },
+            "max_volume": 200,
+            "calibration_data": {
+                "A1": {
+                    "children": {
+                        "tiprack200": {
+                            "type": "tiprack-200ul",
+                            "delta": "{\"z\": -15.0, \"x\": 0.259999999999998, \"y\": -3.09}"
+                        }
+                    }
+                },
+                "B1": {
+                    "children": {
+                        "weighBoat": {
+                            "type": "point",
+                            "delta": "{\"z\": -28.0, \"x\": 40.0, \"y\": 40.0}"
+                        },
+                        "trash": {
+                            "type": "point",
+                            "delta": "{\"z\": 87.0, \"x\": 32.0, \"y\": 51.0}"
+                        }
+                    }
+                },
+                "A2": {
+                    "children": {
+                        "tubes2mL_A": {
+                            "type": "tube-rack-2ml",
+                            "delta": "{\"z\": 34.0, \"x\": -7.0, \"y\": -2.0}"
+                        }
+                    }
+                },
+                "D2": {
+                    "children": {
+                        "plate24": {
+                            "type": "24-plate",
+                            "delta": "{\"z\": -3.799999999999997, \"x\": 0.0049999999999954525, \"y\": 60.0}"
+                        },
+                        "plate24scp": {
+                            "type": "24-well-plate",
+                            "delta": "{\"z\": -41.19999999999999, \"x\": -0.48900000000020327, \"y\": 30.886999999999944}"
+                        }
+                    }
+                },
+                "C3": {
+                    "children": {
+                        "tiprack200": {
+                            "type": "tiprack-200ul",
+                            "delta": "{\"z\": -3.0, \"x\": -7.740000000000009, \"y\": -3.339999999999975}"
+                        }
+                    }
+                },
+                "C2": {
+                    "children": {
+                        "tiprack200": {
+                            "type": "tiprack-200ul",
+                            "delta": "{\"z\": -18.5, \"x\": 24.25999999999999, \"y\": -28.590000000000003}"
+                        },
+                        "tubes2mL_A": {
+                            "type": "tube-rack-2ml",
+                            "delta": "{\"z\": 36.0, \"x\": -7.0, \"y\": -2.5}"
+                        },
+                        "trash": {
+                            "type": "point",
+                            "delta": "{\"z\": -10.0, \"x\": 45.5, \"y\": 67.25}"
+                        }
+                    }
+                },
+                "C1": {
+                    "children": {
+                        "tubes2mL_B": {
+                            "type": "tube-rack-2ml",
+                            "delta": "{\"z\": 36.0, \"x\": -7.0, \"y\": -5.0}"
+                        },
+                        "tiprack200": {
+                            "type": "tiprack-200ul",
+                            "delta": "{\"z\": 0.0, \"x\": 34.25999999999999, \"y\": 12.91}"
+                        },
+                        "trash": {
+                            "type": "point",
+                            "delta": "{\"z\": 62.0, \"x\": 37.0, \"y\": 68.5}"
+                        },
+                        "tubeRack": {
+                            "type": "tube-rack-15_50ml",
+                            "delta": "{\"z\": 20.0, \"x\": 4.5, \"y\": -1.75}"
+                        }
+                    }
+                },
+                "D3": {
+                    "children": {
+                        "plate24_2": {
+                            "type": "24-plate",
+                            "delta": "{\"z\": -10.0, \"x\": 21.829999999999984, \"y\": 55.25}"
+                        }
+                    }
+                },
+                "B2": {
+                    "children": {
+                        "tubes2mL_B": {
+                            "type": "tube-rack-2ml",
+                            "delta": "{\"z\": 34.0, \"x\": -5.0, \"y\": -2.0}"
+                        },
+                        "trash": {
+                            "type": "point",
+                            "delta": "{\"z\": 6.0, \"x\": 53.0, \"y\": 53.75}"
+                        }
+                    }
+                }
+            }
+        },
+        "a:p300_multi": {
+            "positions": {
+                "bottom": 21.5,
+                "drop_tip": 25.5,
+                "blow_out": 22.0,
+                "top": 0.0
+            },
+            "max_volume": 300,
+            "calibration_data": {
+                "B1": {
+                    "children": {
+                        "trash": {
+                            "type": "point",
+                            "delta": "{\"z\": 73.5, \"x\": -19.0, \"y\": 61.0}"
+                        },
+                        "plate96drugs": {
+                            "type": "96-deep-well",
+                            "delta": "{\"z\": -20.799999999999997, \"x\": -26.001999999999995, \"y\": -11.00300000000001}"
+                        }
+                    }
+                },
+                "D2": {
+                    "children": {
+                        "plate96scp": {
+                            "type": "96-deep-well",
+                            "delta": "{\"z\": -49.0, \"x\": -22.142999999999972, \"y\": -17.947000000000116}"
+                        }
+                    }
+                },
+                "C3": {
+                    "children": {
+                        "tiprack200b": {
+                            "type": "tiprack-200ul",
+                            "delta": "{\"z\": -15.0, \"x\": -25.50200000000001, \"y\": -9.50200000000001}"
+                        },
+                        "tiprack200": {
+                            "type": "tiprack-200ul",
+                            "delta": "{\"z\": -13.5, \"x\": -31.24000000000001, \"y\": -9.339999999999975}"
+                        }
+                    }
+                },
+                "C2": {
+                    "children": {
+                        "plate96drugs": {
+                            "type": "96-PCR-flat",
+                            "delta": "{\"z\": -21.5, \"x\": -26.24000000000001, \"y\": -8.840000000000003}"
+                        }
+                    }
+                },
+                "C1": {
+                    "children": {
+                        "trash": {
+                            "type": "point",
+                            "delta": "{\"z\": 80.0, \"x\": -17.5, \"y\": 55.0}"
+                        },
+                        "tiprack200a": {
+                            "type": "tiprack-200ul",
+                            "delta": "{\"z\": -16.0, \"x\": -26.00200000000001, \"y\": -9.50300000000001}"
+                        }
+                    }
+                },
+                "B3": {
+                    "children": {
+                        "tubeRack": {
+                            "type": "tube-rack-15_50ml",
+                            "delta": "{\"z\": 50.0, \"x\": -99.25999999999999, \"y\": -14.600000000000023}"
+                        },
+                        "tiprack200": {
+                            "type": "tiprack-200ul",
+                            "delta": "{\"z\": -17.5, \"x\": -26.001999999999995, \"y\": -9.502000000000066}"
+                        },
+                        "plate96drugstest": {
+                            "type": "96-supertall-well",
+                            "delta": "{\"z\": -22.0, \"x\": -14.0, \"y\": 4.0}"
+                        }
+                    }
+                },
+                "B2": {
+                    "children": {
+                        "trash": {
+                            "type": "point",
+                            "delta": "{\"z\": 77.0, \"x\": -19.762, \"y\": 66.83699999999999}"
+                        },
+                        "calibTube": {
+                            "type": "point",
+                            "delta": "{\"z\": 50.0, \"x\": -36.0, \"y\": 95.5}"
+                        },
+                        "plate96drugs": {
+                            "type": "96-deep-well",
+                            "delta": "{\"z\": -18.5, \"x\": -26.239999999999995, \"y\": -7.840000000000032}"
+                        }
+                    }
+                }
+            }
+        },
+        "a:p1000": {
+            "positions": {
+                "bottom": 18.2,
+                "drop_tip": 22.3,
+                "blow_out": 19.3,
+                "top": 2.1
+            },
+            "max_volume": 1000,
+            "calibration_data": {
+                "B1": {
+                    "children": {
+                        "weighBoat": {
+                            "type": "point",
+                            "delta": "{\"z\": -25.0, \"x\": -13.599999999999994, \"y\": 46.51299999999998}"
+                        }
+                    }
+                },
+                "C3": {
+                    "children": {
+                        "tiprack1000": {
+                            "type": "tiprack-1000ul",
+                            "delta": "{\"z\": 10.0, \"x\": 24.25999999999999, \"y\": 52.910000000000025}"
+                        }
+                    }
+                },
+                "A3": {
+                    "children": {
+                        "trash": {
+                            "type": "point",
+                            "delta": "{\"z\": 8.5, \"x\": -0.5, \"y\": 50.0}"
+                        }
+                    }
+                },
+                "D2": {
+                    "children": {
+                        "plate24": {
+                            "type": "24-well-plate",
+                            "delta": "{\"z\": -53.0, \"x\": -43.395000000000124, \"y\": 73.08699999999999}"
+                        }
+                    }
+                },
+                "C2": {
+                    "children": {
+                        "trash": {
+                            "type": "point",
+                            "delta": "{\"z\": 0.0, \"x\": 21.5, \"y\": 67.25}"
+                        }
+                    }
+                },
+                "C1": {
+                    "children": {
+                        "tubeRack": {
+                            "type": "tube-rack-15_50ml",
+                            "delta": "{\"z\": 17.0, \"x\": -53.0, \"y\": -4.5}"
+                        }
+                    }
+                },
+                "D3": {
+                    "children": {
+                        "plate24_2": {
+                            "type": "24-plate",
+                            "delta": "{\"z\": 0.0, \"x\": 27.829999999999984, \"y\": 51.25}"
+                        }
+                    }
+                },
+                "B3": {
+                    "children": {
+                        "tiprack1000": {
+                            "type": "tiprack-1000ul",
+                            "delta": "{\"z\": 7.0, \"x\": -54.74000000000001, \"y\": -4.839999999999975}"
+                        }
+                    }
+                },
+                "B2": {
+                    "children": {
+                        "trash": {
+                            "type": "point",
+                            "delta": "{\"z\": 5.0, \"x\": -20.5, \"y\": 42.75}"
+                        },
+                        "tubes1_5mL": {
+                            "type": "tube-rack-2ml",
+                            "delta": "{\"z\": 10.0, \"x\": -55.0, \"y\": -4.0}"
+                        }
+                    }
+                }
+            }
+        },
+        "b:p1000": {
+            "positions": {
+                "bottom": 31.5,
+                "drop_tip": 36.0,
+                "blow_out": 33.0,
+                "top": 15.0
+            },
+            "max_volume": 1000,
+            "calibration_data": {
+                "A1": {
+                    "children": {
+                        "tiprack1000": {
+                            "type": "tiprack-1000ul",
+                            "delta": "{\"z\": 36.0, \"x\": 3.7600000000000016, \"y\": -2.34}"
+                        }
+                    }
+                },
+                "A3": {
+                    "children": {
+                        "tiprack1000": {
+                            "type": "tiprack-1000ul",
+                            "delta": "{\"z\": 25.0, \"x\": -2.003, \"y\": -5.0020000000000095}"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "version": 1
+}

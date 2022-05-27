@@ -1,0 +1,226 @@
+2016-12-14 18:42:55,172 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2016-12-14 18:43:18,180 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2016-12-14 18:43:19,835 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2016-12-14 18:44:26,908 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2016-12-15 14:10:51,721 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-02 14:40:23,447 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-02 14:46:33,743 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-05 15:00:04,448 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-05 15:17:39,371 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-05 15:32:58,455 opentrons.robot.robot INFO [Line 494]     Enqueuing: Picking up tip from <In Place>
+2017-01-05 15:35:08,816 opentrons.robot.robot INFO [Line 749]     Executing: Picking up tip from <In Place>
+2017-01-05 15:41:08,496 opentrons.robot.robot INFO [Line 494]     Enqueuing: Picking up tip from <In Place>
+2017-01-05 15:41:17,800 opentrons.robot.robot INFO [Line 749]     Executing: Picking up tip from <In Place>
+2017-01-05 15:49:34,863 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-05 15:53:47,482 opentrons.robot.robot INFO [Line 494]     Enqueuing: Picking up tip from <In Place>
+2017-01-05 15:53:52,345 opentrons.robot.robot INFO [Line 749]     Executing: Picking up tip from <In Place>
+2017-01-05 15:55:56,258 opentrons.robot.robot INFO [Line 494]     Enqueuing: Picking up tip from <Deck>/<Slot A1>/<Container tiprack-200ul>/<Well A1>
+2017-01-05 15:56:12,794 opentrons.robot.robot INFO [Line 494]     Enqueuing: Picking up tip from <Deck>/<Slot A1>/<Container tiprack-200ul>/<Well A1>
+2017-01-05 15:56:21,313 opentrons.robot.robot INFO [Line 749]     Executing: Picking up tip from <Deck>/<Slot A1>/<Container tiprack-200ul>/<Well A1>
+2017-01-05 16:02:22,267 opentrons.robot.robot INFO [Line 494]     Enqueuing: Picking up tip from <In Place>
+2017-01-05 16:02:44,994 opentrons.robot.robot INFO [Line 494]     Enqueuing: Picking up tip from <Deck>/<Slot A1>/<Container tiprack-200ul>/<Well A1>
+2017-01-05 16:02:51,450 opentrons.robot.robot INFO [Line 749]     Executing: Picking up tip from <Deck>/<Slot A1>/<Container tiprack-200ul>/<Well A1>
+2017-01-05 16:03:07,595 opentrons.robot.robot INFO [Line 494]     Enqueuing: Picking up tip from <Deck>/<Slot A1>/<Container tiprack-200ul>/<Well A1>
+2017-01-05 16:03:09,098 opentrons.robot.robot INFO [Line 749]     Executing: Picking up tip from <Deck>/<Slot A1>/<Container tiprack-200ul>/<Well A1>
+2017-01-05 16:03:15,784 opentrons.robot.robot INFO [Line 749]     Executing: Picking up tip from <Deck>/<Slot A1>/<Container tiprack-200ul>/<Well A1>
+2017-01-05 16:03:45,242 opentrons.robot.robot INFO [Line 494]     Enqueuing: Picking up tip from <Deck>/<Slot A1>/<Container tiprack-200ul>/<Well A1>
+2017-01-05 16:03:47,450 opentrons.robot.robot INFO [Line 749]     Executing: Picking up tip from <Deck>/<Slot A1>/<Container tiprack-200ul>/<Well A1>
+2017-01-05 16:04:10,122 opentrons.robot.robot INFO [Line 749]     Executing: Picking up tip from <Deck>/<Slot A1>/<Container tiprack-200ul>/<Well A1>
+2017-01-31 09:09:12,699 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-31 09:37:56,239 opentrons.robot.robot INFO [Line 494]     Enqueuing: Picking up tip from <In Place>
+2017-01-31 09:38:44,676 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-31 09:39:14,414 opentrons.robot.robot INFO [Line 749]     Executing: Picking up tip from <In Place>
+2017-01-31 09:40:33,006 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-31 09:44:41,332 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-31 09:53:12,180 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-31 10:02:53,332 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-31 10:03:37,797 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-31 10:49:11,183 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-31 11:21:50,650 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-31 11:34:40,402 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-31 11:38:32,882 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-31 11:38:38,862 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-31 11:43:33,866 opentrons.robot.robot INFO [Line 478]     Executing: Home now
+2017-01-31 11:49:27,067 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-01-31 12:08:56,244 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-01-31 12:13:14,436 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-01-31 17:00:38,908 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 08:47:42,257 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 10:36:26,510 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 11:03:13,304 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 11:06:53,400 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 11:09:51,386 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 11:12:04,945 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 11:24:47,985 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 11:31:31,443 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 11:34:44,252 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 500.0uL at <In Place>
+2017-02-01 11:35:25,892 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 500.0uL at <In Place>
+2017-02-01 11:36:43,165 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 500.0uL at <Deck>/<Slot B2>/<Container point>/<Well A1>
+2017-02-01 11:37:22,197 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 1000.0uL at <Deck>/<Slot B2>/<Container point>/<Well A1>
+2017-02-01 12:13:54,892 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 12:14:45,027 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 12:18:38,556 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 12:21:51,689 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 12:26:44,205 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 12:33:04,759 opentrons.robot.robot INFO [Line 506]     Enqueuing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well H1>
+2017-02-01 12:33:04,767 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 500.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well B1>
+2017-02-01 12:33:04,776 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 500.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well D1>
+2017-02-01 12:33:04,783 opentrons.robot.robot INFO [Line 506]     Enqueuing: Drop_tip at <In Place>
+2017-02-01 12:33:48,091 opentrons.robot.robot INFO [Line 761]     Executing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well H1>
+2017-02-01 12:33:57,448 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 500.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well B1>
+2017-02-01 12:34:12,767 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 500.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well D1>
+2017-02-01 12:34:28,593 opentrons.robot.robot INFO [Line 761]     Executing: Drop_tip at <In Place>
+2017-02-01 13:14:56,055 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 14:15:05,277 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 14:15:29,502 opentrons.robot.robot INFO [Line 506]     Enqueuing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well B2>
+2017-02-01 14:15:29,513 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well A1>
+2017-02-01 14:15:29,513 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:15:29,516 opentrons.robot.robot INFO [Line 506]     Enqueuing: Mixing 2.0 times with a volume of 0.0ul
+2017-02-01 14:15:29,517 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 100.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:16:53,805 opentrons.robot.robot INFO [Line 506]     Enqueuing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well B2>
+2017-02-01 14:16:53,816 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well A1>
+2017-02-01 14:16:53,817 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:16:53,820 opentrons.robot.robot INFO [Line 506]     Enqueuing: Mixing 2 times with a volume of 0.0ul
+2017-02-01 14:16:53,820 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 100.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:16:53,821 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 100.0uL at <In Place>
+2017-02-01 14:16:53,821 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 100.0uL at <In Place>
+2017-02-01 14:16:53,821 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 100.0uL at <In Place>
+2017-02-01 14:16:53,824 opentrons.robot.robot INFO [Line 506]     Enqueuing: Drop_tip at <In Place>
+2017-02-01 14:16:53,830 opentrons.robot.robot INFO [Line 761]     Executing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well B2>
+2017-02-01 14:17:01,507 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well A1>
+2017-02-01 14:17:19,952 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:17:35,154 opentrons.robot.robot INFO [Line 761]     Executing: Mixing 2 times with a volume of 0.0ul
+2017-02-01 14:17:35,154 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 100.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:17:38,995 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 100.0uL at <In Place>
+2017-02-01 14:17:39,804 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 100.0uL at <In Place>
+2017-02-01 14:17:40,653 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 100.0uL at <In Place>
+2017-02-01 14:17:41,466 opentrons.robot.robot INFO [Line 761]     Executing: Drop_tip at <In Place>
+2017-02-01 14:18:06,363 opentrons.robot.robot INFO [Line 506]     Enqueuing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well C2>
+2017-02-01 14:18:06,372 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well A1>
+2017-02-01 14:18:06,372 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:18:06,376 opentrons.robot.robot INFO [Line 506]     Enqueuing: Mixing 2 times with a volume of 0.0ul
+2017-02-01 14:18:06,376 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 100.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:18:06,376 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 100.0uL at <In Place>
+2017-02-01 14:18:06,376 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 100.0uL at <In Place>
+2017-02-01 14:18:06,376 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 100.0uL at <In Place>
+2017-02-01 14:18:06,379 opentrons.robot.robot INFO [Line 506]     Enqueuing: Drop_tip at <In Place>
+2017-02-01 14:18:06,390 opentrons.robot.robot INFO [Line 761]     Executing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well B2>
+2017-02-01 14:18:16,365 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well A1>
+2017-02-01 14:18:30,763 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:18:46,220 opentrons.robot.robot INFO [Line 761]     Executing: Mixing 2 times with a volume of 0.0ul
+2017-02-01 14:18:46,220 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 100.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:18:50,059 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 100.0uL at <In Place>
+2017-02-01 14:18:50,873 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 100.0uL at <In Place>
+2017-02-01 14:18:51,721 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 100.0uL at <In Place>
+2017-02-01 14:18:52,533 opentrons.robot.robot INFO [Line 761]     Executing: Drop_tip at <In Place>
+2017-02-01 14:19:17,359 opentrons.robot.robot INFO [Line 761]     Executing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well C2>
+2017-02-01 14:19:27,385 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well A1>
+2017-02-01 14:19:41,783 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:19:57,538 opentrons.robot.robot INFO [Line 761]     Executing: Mixing 2 times with a volume of 0.0ul
+2017-02-01 14:19:57,538 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 100.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:20:01,376 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 100.0uL at <In Place>
+2017-02-01 14:20:02,192 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 100.0uL at <In Place>
+2017-02-01 14:20:03,040 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 100.0uL at <In Place>
+2017-02-01 14:20:03,853 opentrons.robot.robot INFO [Line 761]     Executing: Drop_tip at <In Place>
+2017-02-01 14:26:18,331 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 14:27:01,054 opentrons.robot.robot INFO [Line 506]     Enqueuing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well E2>
+2017-02-01 14:27:01,065 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well B1>
+2017-02-01 14:27:01,065 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:27:01,068 opentrons.robot.robot INFO [Line 506]     Enqueuing: Mixing 2 times with a volume of 0.0ul
+2017-02-01 14:27:01,069 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 100.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:27:01,069 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 100.0uL at <In Place>
+2017-02-01 14:27:01,069 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 100.0uL at <In Place>
+2017-02-01 14:27:01,069 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 100.0uL at <In Place>
+2017-02-01 14:27:01,072 opentrons.robot.robot INFO [Line 506]     Enqueuing: Drop_tip at <In Place>
+2017-02-01 14:27:01,078 opentrons.robot.robot INFO [Line 761]     Executing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well E2>
+2017-02-01 14:27:09,054 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well B1>
+2017-02-01 14:27:27,501 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:27:42,500 opentrons.robot.robot INFO [Line 761]     Executing: Mixing 2 times with a volume of 0.0ul
+2017-02-01 14:27:42,500 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 100.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:27:46,486 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 100.0uL at <In Place>
+2017-02-01 14:27:47,296 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 100.0uL at <In Place>
+2017-02-01 14:27:48,146 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 100.0uL at <In Place>
+2017-02-01 14:27:48,962 opentrons.robot.robot INFO [Line 761]     Executing: Drop_tip at <In Place>
+2017-02-01 14:28:34,246 opentrons.robot.robot INFO [Line 506]     Enqueuing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well F2>
+2017-02-01 14:28:34,256 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well B1>
+2017-02-01 14:28:34,256 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:28:34,260 opentrons.robot.robot INFO [Line 506]     Enqueuing: Mixing 2 times with a volume of 0.0ul
+2017-02-01 14:28:34,260 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:28:34,260 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:28:34,260 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <In Place>
+2017-02-01 14:28:34,260 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:28:34,264 opentrons.robot.robot INFO [Line 506]     Enqueuing: Drop_tip at <In Place>
+2017-02-01 14:28:34,270 opentrons.robot.robot INFO [Line 761]     Executing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well F2>
+2017-02-01 14:28:43,721 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well B1>
+2017-02-01 14:28:58,144 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:29:13,674 opentrons.robot.robot INFO [Line 761]     Executing: Mixing 2 times with a volume of 0.0ul
+2017-02-01 14:29:13,675 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:29:18,008 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:29:19,247 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <In Place>
+2017-02-01 14:29:20,229 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:29:21,469 opentrons.robot.robot INFO [Line 761]     Executing: Drop_tip at <In Place>
+2017-02-01 14:37:31,964 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 14:38:11,005 opentrons.robot.robot INFO [Line 506]     Enqueuing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well G2>
+2017-02-01 14:38:11,007 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well C1>
+2017-02-01 14:38:11,008 opentrons.robot.robot INFO [Line 761]     Executing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well F2>
+2017-02-01 14:38:19,136 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well B1>
+2017-02-01 14:38:37,609 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:38:53,134 opentrons.robot.robot INFO [Line 761]     Executing: Mixing 2 times with a volume of 0.0ul
+2017-02-01 14:38:53,134 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:38:57,463 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:38:58,705 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <In Place>
+2017-02-01 14:38:59,684 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:39:00,927 opentrons.robot.robot INFO [Line 761]     Executing: Drop_tip at <In Place>
+2017-02-01 14:39:26,004 opentrons.robot.robot INFO [Line 761]     Executing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well G2>
+2017-02-01 14:39:35,997 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well C1>
+2017-02-01 14:40:17,598 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:40:17,599 opentrons.robot.robot INFO [Line 506]     Enqueuing: Mixing 2 times with a volume of 0.0ul
+2017-02-01 14:40:17,599 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:40:17,599 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:40:17,599 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <In Place>
+2017-02-01 14:40:17,599 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:40:17,600 opentrons.robot.robot INFO [Line 506]     Enqueuing: Drop_tip at <In Place>
+2017-02-01 14:40:17,601 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:40:27,004 opentrons.robot.robot INFO [Line 761]     Executing: Mixing 2 times with a volume of 0.0ul
+2017-02-01 14:40:27,004 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well B2>
+2017-02-01 14:40:31,331 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:40:32,575 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <In Place>
+2017-02-01 14:40:33,554 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:40:34,798 opentrons.robot.robot INFO [Line 761]     Executing: Drop_tip at <In Place>
+2017-02-01 14:41:54,316 opentrons.robot.robot INFO [Line 506]     Enqueuing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well H2>
+2017-02-01 14:41:54,318 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well C1>
+2017-02-01 14:41:54,320 opentrons.robot.robot INFO [Line 761]     Executing: Picking up tip from <Deck>/<Slot B3>/<Container tiprack-1000ul>/<Well H2>
+2017-02-01 14:42:03,853 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <Deck>/<Slot B1>/<Container tube-rack-2ml>/<Well C1>
+2017-02-01 14:42:37,510 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:42:37,511 opentrons.robot.robot INFO [Line 506]     Enqueuing: Mixing 2 times with a volume of 0.0ul
+2017-02-01 14:42:37,511 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:42:37,512 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:42:37,512 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <In Place>
+2017-02-01 14:42:37,512 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:42:37,512 opentrons.robot.robot INFO [Line 506]     Enqueuing: Drop_tip at <In Place>
+2017-02-01 14:42:37,513 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:42:47,549 opentrons.robot.robot INFO [Line 761]     Executing: Mixing 2 times with a volume of 0.0ul
+2017-02-01 14:42:47,549 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:42:51,874 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:42:53,118 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <In Place>
+2017-02-01 14:42:54,098 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:42:55,340 opentrons.robot.robot INFO [Line 761]     Executing: Drop_tip at <In Place>
+2017-02-01 14:54:49,573 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:54:49,574 opentrons.robot.robot INFO [Line 506]     Enqueuing: Mixing 2 times with a volume of 0ul
+2017-02-01 14:54:49,574 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:54:49,574 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:54:49,574 opentrons.robot.robot INFO [Line 506]     Enqueuing: Aspirating 200.0uL at <In Place>
+2017-02-01 14:54:49,574 opentrons.robot.robot INFO [Line 506]     Enqueuing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:54:49,575 opentrons.robot.robot INFO [Line 506]     Enqueuing: Drop_tip at <In Place>
+2017-02-01 14:54:49,575 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:55:00,432 opentrons.robot.robot INFO [Line 761]     Executing: Mixing 2 times with a volume of 0ul
+2017-02-01 14:55:00,432 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <Deck>/<Slot D2>/<Container 24-plate>/<Well C2>
+2017-02-01 14:55:04,684 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:55:05,929 opentrons.robot.robot INFO [Line 761]     Executing: Aspirating 200.0uL at <In Place>
+2017-02-01 14:55:06,908 opentrons.robot.robot INFO [Line 761]     Executing: Dispensing 200.0uL at <In Place>
+2017-02-01 14:55:08,151 opentrons.robot.robot INFO [Line 761]     Executing: Drop_tip at <In Place>
+2017-02-01 14:55:34,269 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 15:40:04,204 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 15:40:04,205 opentrons.drivers.motor WARNING [Line 297]     No connection found.
+2017-02-01 15:40:08,207 opentrons.robot.robot INFO [Line 490]     Executing: Home now
+2017-02-01 15:41:55,546 opentrons.robot.robot INFO [Line 490]     Executing: Home now
